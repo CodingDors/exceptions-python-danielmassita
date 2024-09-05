@@ -21,6 +21,7 @@ def add(num1, num2):
 
 def subtract(num1, num2):
     """
+    """
     Subtract two numbers together.
 
     Args:
